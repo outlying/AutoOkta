@@ -1,0 +1,8 @@
+/**
+ * Sharing some of standard Java and Android dependencies and configuration, usually not a lot but still both
+ * have few things in common
+ */
+
+plugins {
+    id("antyzero.base")
+}
