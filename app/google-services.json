@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "659109113836",
+    "project_id": "auto-okta-antyzero",
+    "storage_bucket": "auto-okta-antyzero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659109113836:android:bc20cb5c41066129819ac9",
+        "android_client_info": {
+          "package_name": "com.antyzero.autookta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659109113836-g5ncho14039lr6kkeopo1uv657vbq9nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHNCZ1MGpOUG9aCrEwi4fqw7_VNFYvMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659109113836-g5ncho14039lr6kkeopo1uv657vbq9nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659109113836:android:6a148cff5055663a819ac9",
+        "android_client_info": {
+          "package_name": "com.antyzero.autookta.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659109113836-g5ncho14039lr6kkeopo1uv657vbq9nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHNCZ1MGpOUG9aCrEwi4fqw7_VNFYvMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659109113836-g5ncho14039lr6kkeopo1uv657vbq9nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

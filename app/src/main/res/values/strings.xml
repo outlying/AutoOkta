@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AutoOkta</string>
+    <string name="service_name">Notification listener</string>
 </resources>
